@@ -1,0 +1,9 @@
+{
+  "token": "токен",
+  "group": "",
+  "text": "%nick% играет %game%. Мой steam профиль - %steam%",
+  "type": "steam",
+  "profile": "https://steamcommunity.com/id/direned45",
+  "mcpe": "",
+  "sleep": 300
+}
