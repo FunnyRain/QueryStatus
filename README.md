@@ -1,8 +1,8 @@
 # QueryStatus - авто статус Steam / Mcpe
 ### Как установить?
 ```bash
-git clone https://github.com/FunnyRain/querystatus
-cd querystatus
+git clone https://github.com/FunnyRain/QueryStatus
+cd QueryStatus
 ```
 запустить скрипт:
 ```bash
